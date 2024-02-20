@@ -5,7 +5,8 @@
 	"id": "raydeeux.nolevelrefresh",
 	"name": "NoLevelRefresh",
 	"developer": "RayDeeUx",
-	"description": "[Windows only] Hides the level refresh button if you have TheSillyDoggo's \"More Level Tags\" mod installed, because that one crash has yet to be fixed.",
+	"description": "Hides the level refresh button if \"More Level Tags\" is installed, because that one crash hasn't been fixed.",
+	"repository": "https://github.com/RayDeeUx/NoLevelRefresh",
 	"dependencies": [
 		{
 			"id": "geode.node-ids",
